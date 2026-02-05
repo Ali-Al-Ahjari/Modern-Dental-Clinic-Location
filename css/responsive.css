@@ -1,0 +1,288 @@
+/* التجاوب مع الشاشات */
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 var(--spacing-sm);
+    }
+
+    .nav-menu {
+        position: fixed;
+        top: 70px;
+        right: -100%;
+        width: 80%;
+        height: calc(100vh - 70px);
+        background-color: var(--bg-light);
+        flex-direction: column;
+        padding: var(--spacing-lg);
+        box-shadow: var(--shadow-lg);
+        transition: right 0.3s ease;
+        z-index: 999;
+    }
+
+    .nav-menu.active {
+        right: 0;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .hero {
+        height: 70vh;
+        margin-top: 60px;
+    }
+
+    .slide-content h1 {
+        font-size: 2.5rem;
+    }
+
+    .slide-content p {
+        font-size: 1rem;
+    }
+
+    .stats-container {
+        gap: var(--spacing-md);
+    }
+
+    .stat-item {
+        flex-direction: column;
+        text-align: center;
+        gap: var(--spacing-xs);
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: var(--spacing-md);
+    }
+
+    .team-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: var(--spacing-md);
+    }
+
+    .booking-container {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .booking-info,
+    .booking-form {
+        padding: var(--spacing-lg);
+    }
+
+    .footer-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: var(--spacing-lg);
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        text-align: center;
+        gap: var(--spacing-sm);
+    }
+}
+
+@media (max-width: 480px) {
+    :root {
+        --spacing-xl: 2rem;
+        --spacing-lg: 1.5rem;
+        --spacing-md: 1rem;
+        --spacing-sm: 0.75rem;
+    }
+
+    .logo span {
+        font-size: 1.2rem;
+    }
+
+    .nav-buttons {
+        gap: var(--spacing-sm);
+    }
+
+    .nav-phone span {
+        display: none;
+    }
+
+    .hero {
+        height: 60vh;
+    }
+
+    .slide-content h1 {
+        font-size: 2rem;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        gap: var(--spacing-sm);
+    }
+
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+        padding: 10px 20px;
+    }
+
+    .stats-bar {
+        padding: var(--spacing-md) 0;
+    }
+
+    .stats-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-md);
+    }
+
+    .stat-item h3 {
+        font-size: 1.5rem;
+    }
+
+    .stat-item i {
+        font-size: 1.5rem;
+    }
+
+    .section-title {
+        font-size: 1.8rem;
+    }
+
+    .section-subtitle {
+        font-size: 1rem;
+    }
+
+    .services-grid,
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .service-card {
+        padding: var(--spacing-md);
+    }
+
+    .testimonial-card {
+        padding: var(--spacing-md);
+    }
+
+    .testimonial-header {
+        flex-direction: column;
+        text-align: center;
+        gap: var(--spacing-sm);
+    }
+
+    .footer-grid {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .contact-item {
+        justify-content: center;
+    }
+
+    .whatsapp-float {
+        width: 50px;
+        height: 50px;
+        bottom: 20px;
+        left: 20px;
+    }
+
+    .scroll-top {
+        width: 40px;
+        height: 40px;
+        bottom: 80px;
+        left: 20px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        max-width: 95%;
+    }
+
+    .nav-menu {
+        gap: var(--spacing-sm);
+    }
+
+    .nav-menu li a {
+        padding: 8px 12px;
+        font-size: 0.9rem;
+    }
+
+    .slide-content h1 {
+        font-size: 3rem;
+    }
+
+    .services-grid,
+    .team-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1201px) {
+    .container {
+        max-width: 1400px;
+    }
+
+    .hero {
+        min-height: 800px;
+    }
+
+    .slide-content {
+        max-width: 800px;
+    }
+
+    .slide-content h1 {
+        font-size: 4rem;
+    }
+
+    .slide-content p {
+        font-size: 1.5rem;
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .team-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .footer-grid {
+        grid-template-columns: 2fr 1fr 1fr 1.5fr;
+    }
+}
+
+@media (orientation: landscape) and (max-height: 500px) {
+    .hero {
+        height: 100vh;
+        margin-top: 60px;
+    }
+
+    .slide-content {
+        padding: var(--spacing-md);
+    }
+
+    .slide-content h1 {
+        font-size: 2rem;
+    }
+}
+
+@media print {
+
+    .navbar,
+    .hero-buttons,
+    .whatsapp-float,
+    .scroll-top,
+    .footer {
+        display: none !important;
+    }
+
+    body {
+        color: #000 !important;
+        background: #fff !important;
+    }
+
+    .container {
+        max-width: 100% !important;
+        padding: 0 !important;
+    }
+}
