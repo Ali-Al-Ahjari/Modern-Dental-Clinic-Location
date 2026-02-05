@@ -97,7 +97,7 @@
 
 ### 2. خدمات العيادة (Services Section)
 
-![صورة قسم الخدمات](https://github.com/Ali-Al-Ahjari/my-site/blob/main/img/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20(2).png)
+![صورة قسم الخدمات](img/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20(2).png)
 
 ### 3. نموذج حجز الموعد (Booking Form)
 
