@@ -96,9 +96,8 @@ https://ali-al-ahjari.github.io/Modern-Dental-Clinic-Location/
 ## 📸 معرض صور المشروع
 
 
-<img src="https://ali-al-ahjari.github.io/Modern-Dental-Clinic-Location/img/1.jpg" width="800">
+<img src="Modern-Dental-Clinic-Location/img/1.jpg" >
 
-![صورة قسم الخدمات](img/2.png)
 
 
 
