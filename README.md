@@ -92,22 +92,22 @@
 في هذا القسم، يمكنك إضافة لقطات شاشة لكل جزء من الموقع.
 
 ### 1. الشريط العلوي والقائمة (Header & Navigation)
-<img src='img/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20(2).png' >
-![صورة الشريط العلوي](path/to/header-image.jpg)
-
+<img src="img/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20(2).png" width="500">
 ### 2. خدمات العيادة (Services Section)
 
 ![صورة قسم الخدمات](img/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20(2).png)
 
 ### 3. نموذج حجز الموعد (Booking Form)
 
-![صورة نموذج الحجز](path/to/booking-form-image.jpg)
 
 ### 4. عرض الموبايل (Mobile View)
 
 ![صورة عرض الموبايل](path/to/mobile-view-image.jpg)
 
----
+---![صورة نموذج الحجز](path/to/booking-form-image.jpg)
+
+![صورة الشريط العلوي](path/to/header-image.jpg)
+
 
 ## 5. كيفية التعديل والاستخدام
 
