@@ -119,7 +119,7 @@
 
 <div style="border: 2px solid #17a2b8; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f0ffff; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-🧩 4. شرح الصفحات والمكونات
+##🧩 4. شرح الصفحات والمكونات
 
 أ. الصفحة الرئيسية (index.html)
 
@@ -155,7 +155,7 @@
 
 <div style="border: 2px solid #6f42c1; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f8f0ff; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-📸 5. معرض الصور
+##📸 5. معرض الصور
 
 🖼️ لقطة شاشة للصفحة الرئيسية – Homepage Preview
 (سيتم إضافة صور حقيقية للمشروع – مثال:)
@@ -169,7 +169,7 @@ img/1.png
 
 <div style="border: 2px solid #fd7e14; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #fff4e6; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-🔧 6. كيفية التعديل والاستخدام
+##🔧 6. كيفية التعديل والاستخدام
 
 1. تغيير النصوص – يمكنك فتح ملفات .html وتعديل النصوص العربية مباشرة.
 2. تغيير الصور – استبدل الصور في مجلد images أو عدل روابط الصور في ملفات HTML (حالياً يتم استخدام صور من Unsplash).
@@ -188,7 +188,7 @@ img/1.png
 
 <div style="border: 2px solid #6c757d; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f8f9fa; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-🏁 7. الخاتمة
+##🏁 7. الخاتمة
 
 هذا المشروع يمثل أساساً قوياً لموقع عيادة متكامل، قابل للتطوير بسهولة لإضافة لوحة تحكم أو ربطه بقاعدة بيانات مستقبلاً.
 
@@ -208,7 +208,7 @@ img/1.png
 
 <div style="border: 2px solid #2e86de; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f0f8ff; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-📌 1. Project Introduction
+##📌 1. Project Introduction
 
 The "Dental Smile Clinic" website is an informational website for a dental clinic. It aims to showcase the clinic’s services, medical staff, and customer reviews, in addition to providing an easy way to book appointments online. The site is designed to be responsive across all devices (mobile, tablet, and desktop).
 
@@ -218,7 +218,7 @@ The "Dental Smile Clinic" website is an informational website for a dental clini
 
 <div style="border: 2px solid #28a745; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f5fff5; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-⚙️ 2. Technical Features
+##⚙️ 2. Technical Features
 
 ✅ Responsive Design – works perfectly on small and large screens via CSS Media Queries.
 ✅ User Interactivity – JavaScript for interactive animations, sliders (images & reviews).
@@ -234,7 +234,7 @@ The "Dental Smile Clinic" website is an informational website for a dental clini
 
 <div style="border: 2px solid #ffc107; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #fffcf0; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-📁 3. Project Structure
+##📁 3. Project Structure
 
 ```text
 Dental Clinic Website/
@@ -265,7 +265,7 @@ Dental Clinic Website/
 
 <div style="border: 2px solid #17a2b8; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f0ffff; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-🧩 4. Pages and Components
+##🧩 4. Pages and Components
 
 A. Home Page (index.html)
 
@@ -299,7 +299,7 @@ C. JavaScript Files
 
 <div style="border: 2px solid #6f42c1; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f8f0ff; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-📸 5. Project Gallery
+##📸 5. Project Gallery
 
 🖼️ Homepage preview
 (Replace with an actual screenshot of your project.)
@@ -313,7 +313,7 @@ img/1.png
 
 <div style="border: 2px solid #fd7e14; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #fff4e6; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-🔧 6. How to Edit and Use
+##🔧 6. How to Edit and Use
 
 1. Change text – open .html files and edit the Arabic/English text directly.
 2. Change images – replace files in the images folder or update image links in HTML.
@@ -332,7 +332,7 @@ img/1.png
 
 <div style="border: 2px solid #6c757d; border-radius: 12px; padding: 20px; margin: 25px 0; background-color: #f8f9fa; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-🏁 7. Conclusion
+##🏁 7. Conclusion
 
 This project represents a strong foundation for a complete clinic website, easily extendable with an admin dashboard or database connection in the future.
 
