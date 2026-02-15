@@ -237,13 +237,3 @@ A solid foundation for a professional clinic website, extendable with backend in
 </div>
 
 ---
-
-<div align="center">
-  <hr>
-  <p>
-    🚀 <strong>تم تنسيق الملف ليكون متوافقًا بصريًا مع GitHub Markdown</strong><br>
-    🚀 <strong>Formatted for clean GitHub Markdown rendering</strong>
-  </p>
-  <sub>© 2025 – Dental Smile Clinic Project</sub>
-</div>
-```
